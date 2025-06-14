@@ -1,0 +1,5 @@
+# No Python packages required for this project.
+# This project uses Tailwind CSS via CDN.
+
+# Tailwind CSS CDN Link:
+https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4
