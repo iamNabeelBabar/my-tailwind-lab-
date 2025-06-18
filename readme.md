@@ -20,7 +20,6 @@ It covers the following concepts:
      - Lowercase
      - Capitalize
      - Normal Case
-
 ---
 
 ## 🚀 Technologies Used
